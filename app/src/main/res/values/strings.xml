@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <!-- strings.xml -->
+
+    <string-array name="currencies">
+        <item>INR</item>
+        <item>USD</item>
+        <item>EUR</item>
+        <item>GBP</item>
+        <item>RUB</item>
+        <item>CNY</item>
+        <item>BRL</item>
+
+        <item>CHF</item>
+        <!-- Add more currencies as needed -->
+    </string-array>
+
+
+</resources>
